@@ -1,0 +1,23 @@
+{
+  "name": "nandi-khumalo-625-validate-a-south-african-id-number-javascript",
+  "version": "1.0.0",
+  "description": "Validate a South African ID number (625) For raw project instructions see: http://syllabus.africacode.net/language-agnostic/validate-id-number/",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Umuzi-org/Nandi-Khumalo-625-validate-a-south-african-id-number-javascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Umuzi-org/Nandi-Khumalo-625-validate-a-south-african-id-number-javascript/issues"
+  },
+  "homepage": "https://github.com/Umuzi-org/Nandi-Khumalo-625-validate-a-south-african-id-number-javascript#readme",
+  "dependencies": {
+    "jasmine": "^3.6.3"
+  }
+
+}
